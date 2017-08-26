@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SuperPola</name>
+    <Style id="icon-1685-F9A825-labelson-nodesc">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Super Pola Sarasota</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9461937,18.4511472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Pola Bávaro San Juan Shopping Center</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -68.397944,18.638932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Pola Sosúa</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.5070728,19.767563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Pola Independencia</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9580964,18.4357204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Pola Arroyo Hondo</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9325145,18.4923965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Pola</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9311543,18.4756609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Pola</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.5440712,19.31254,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sirena Bartolomé Colón</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.702055,19.4584266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Pola</name>
+      <styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.985132,18.5070286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

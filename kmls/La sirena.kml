@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>La sirena</name>
+    <Style id="icon-1685-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Multicentro La Sirena Villa Mella</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8990177,18.5447826,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena Av. Independencia</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9896425,18.4290797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena Moca</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.5281667,19.3991964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sirena Mella</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8876475,18.4773716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena Churchill</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9425645,18.4729651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sirena Bartolomé Colón</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.702055,19.4584266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena El Embrujo</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.6702172,19.4440248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena Puerto Plata</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.6844111,19.7956045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Multicentro La Sirena Autopista Duarte</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.0023034,18.5062502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sirena Calle Del Sol</name>
+      <styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.7050423,19.4512975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

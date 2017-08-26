@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>La cadena</name>
+    <Style id="icon-1685-795548-labelson-nodesc">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Supermercado La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.932722,18.4709309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercados La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9255585,18.4547476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9603152,18.4689549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9573602,18.446706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8517485,18.5094878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8994291,18.4656272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado La Cadena</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8511413,18.4923357,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Repetidor Telemicro</name>
+      <styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -71.0760019,18.760734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

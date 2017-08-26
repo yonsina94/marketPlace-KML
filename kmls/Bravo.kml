@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bravo</name>
+    <Style id="icon-1685-880E4F-labelson-nodesc">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9798323,18.5064397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.685808,19.4532811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8556055,18.5032715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.970036,18.4425606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9436462,18.475173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9589508,18.4651759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Bravo</name>
+      <styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9716234,18.4313911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

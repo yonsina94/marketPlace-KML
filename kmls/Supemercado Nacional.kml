@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Supemercado Nacional</name>
+    <Style id="icon-1685-006064-labelson-nodesc">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1685-097138-labelson-nodesc">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Supermercados Nacional Arroyo Hondo</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9429368,18.5020392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercados Nacional 27 de Febrero</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.929245,18.465461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional - Entrada Octavio del Pozo</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9249652,18.4722667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8310476,18.5135581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional Paseo Santiago</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.6754577,19.4580705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.6851205,19.4615499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercados Nacional Máximo Gómez</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9104992,18.4651877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional</name>
+      <styleUrl>#icon-1685-006064-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -68.3696831,18.5591608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional</name>
+      <styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8859999,18.4731446,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Nacional</name>
+      <styleUrl>#icon-1685-006064-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.970108,18.431727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Liverpool</name>
+    <Style id="icon-1685-A52714-labelson-nodesc">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Supermercado Liverpool</name>
+      <styleUrl>#icon-1685-A52714-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9057094,18.5612734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liverpool Supermercados</name>
+      <styleUrl>#icon-1685-A52714-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9163017,18.5467934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

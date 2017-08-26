@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kmlSupermercados</name>
+	<Style id="icon-1685-C2185B-labelson-nodesc">
+		<IconStyle>
+			<color>ff5b18c2</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-097138-labelson-nodesc">
+		<IconStyle>
+			<color>ff387109</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-F9A825-labelson-nodesc">
+		<IconStyle>
+			<color>ff25a8f9</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-880E4F-labelson-nodesc">
+		<IconStyle>
+			<color>ff4f0e88</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-795548-labelson-nodesc">
+		<IconStyle>
+			<color>ff485579</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-A52714-labelson-nodesc">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-0F9D58-labelson-nodesc">
+		<IconStyle>
+			<color>ff589d0f</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-01579B-labelson-nodesc">
+		<IconStyle>
+			<color>ff9b5701</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-FF5252-labelson-nodesc">
+		<IconStyle>
+			<color>ff5252ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-006064-labelson-nodesc">
+		<IconStyle>
+			<color>ff646000</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-AFB42B-labelson-nodesc">
+		<IconStyle>
+			<color>ff2bb4af</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1685-FFD600-labelson-nodesc">
+		<IconStyle>
+			<color>ff00d6ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Aprezio</name>
+		<Placemark>
+			<name>Aprezio Las Palmas de Herrera</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.97936559999999,18.477668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caribe Express Aprezio</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9348062,18.5387139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caribe Express-Banco Caribe Aprezio</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8613782,18.5416489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aprezio Padre Castellanos</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8858139,18.5028804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Aprezio Los Reyes</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.70704790000001,19.4913383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gran Aprezio Cotui</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.14653560000001,19.0507576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aprezio Pantoja</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9975245,18.5299935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aprezio Andres Boca Chica</name>
+			<styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.6346467,18.4454613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PriceSmart</name>
+			<styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9495874,18.4770842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PriceSmart</name>
+			<styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.6874479,19.4395176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PriceSmart</name>
+			<styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9683726,18.5070709,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>La sirena</name>
+		<Placemark>
+			<name>Multicentro La Sirena Villa Mella</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8990177,18.5447826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena Av. Independencia</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9896425,18.4290797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena Moca</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.5281667,19.3991964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Sirena Mella</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8876475,18.4773716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena Churchill</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9425645,18.4729651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Sirena Bartolomé Colón</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.702055,19.4584266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena El Embrujo</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.6702172,19.4440248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena Puerto Plata</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.68441110000001,19.7956045,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Multicentro La Sirena Autopista Duarte</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.0023034,18.5062502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Sirena Calle Del Sol</name>
+			<styleUrl>#icon-1685-FFD600-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.7050423,19.4512975,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Supemercado Nacional</name>
+		<Placemark>
+			<name>Supermercados Nacional Arroyo Hondo</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9429368,18.5020392,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercados Nacional 27 de Febrero</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.92924499999999,18.465461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional - Entrada Octavio del Pozo</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9249652,18.4722667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.83104760000001,18.5135581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional Paseo Santiago</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.6754577,19.4580705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.6851205,19.4615499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercados Nacional Máximo Gómez</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9104992,18.4651877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional</name>
+			<styleUrl>#icon-1685-006064-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-68.3696831,18.5591608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional</name>
+			<styleUrl>#icon-1685-097138-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8859999,18.4731446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Nacional</name>
+			<styleUrl>#icon-1685-006064-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.970108,18.431727,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Olé</name>
+		<Placemark>
+			<name>Hipermercados Olé SA</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8955452,18.4880801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Olé El Rompeprecio</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.81934029999999,18.465651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermecados Olé</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8581585,18.508013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermercados Olé Autopista Duarte</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.01182439999999,18.5336331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermercados Ole</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.860299,18.5421419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ole Manoguayabo</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.0051565,18.480133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermercados Ole</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.0051879,18.4802686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermercados Olé</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9190212,18.4993216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hipermercados Olé</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8767313,18.4863108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Olé</name>
+			<styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9034803,18.5419544,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Plaza Lama</name>
+		<Placemark>
+			<name>Plaza Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8372705,18.5192941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama S.A</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.93621539999999,18.4616046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9149742,18.5001349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama Electrodomésticos</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.52683159999999,19.2254678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama - Electrodomésticos</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.70097509999999,19.4508062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.7009875,19.4561836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9711319,18.4753007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Centro De Distribución Plaza Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.00420819999999,18.5085305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8262393,18.4886906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaza lama</name>
+			<styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9967126,18.4993383,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Liverpool</name>
+		<Placemark>
+			<name>Supermercado Liverpool</name>
+			<styleUrl>#icon-1685-A52714-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.90570940000001,18.5612734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Liverpool Supermercados</name>
+			<styleUrl>#icon-1685-A52714-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.91630170000001,18.5467934,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Bravo</name>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9798323,18.5064397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.68580799999999,19.4532811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8556055,18.5032715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.97003599999999,18.4425606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9436462,18.475173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9589508,18.4651759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Bravo</name>
+			<styleUrl>#icon-1685-880E4F-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9716234,18.4313911,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SuperPola</name>
+		<Placemark>
+			<name>Super Pola Sarasota</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.94619369999999,18.4511472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Pola Bávaro San Juan Shopping Center</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-68.397944,18.638932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Pola Sosúa</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.5070728,19.767563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Pola Independencia</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9580964,18.4357204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Super Pola Arroyo Hondo</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9325145,18.4923965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Pola</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9311543,18.4756609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Pola</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.5440712,19.31254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Sirena Bartolomé Colón</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.702055,19.4584266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Pola</name>
+			<styleUrl>#icon-1685-F9A825-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.98513199999999,18.5070286,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>La cadena</name>
+		<Placemark>
+			<name>Supermercado La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.932722,18.4709309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercados La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.92555849999999,18.4547476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9603152,18.4689549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9573602,18.446706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8517485,18.5094878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.89942910000001,18.4656272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado La Cadena</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.85114129999999,18.4923357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Repetidor Telemicro</name>
+			<styleUrl>#icon-1685-795548-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-71.07600189999999,18.760734,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Jumbo</name>
+		<Placemark>
+			<name>Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.9671307,18.4632661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo San Pedro</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.2976517,18.4545424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.525966,19.390411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.83318389999999,18.5213495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo La Romana</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-68.9660901,18.4187175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo Higuey</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-68.724092,18.618592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo Megacentro</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.8579874,18.5072749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.93861990000001,18.4837062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Supermercado Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.52147359999999,19.2244244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jumbo</name>
+			<styleUrl>#icon-1685-C2185B-labelson-nodesc</styleUrl>
+			<Point>
+				<coordinates>-70.7138751,19.4731308,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

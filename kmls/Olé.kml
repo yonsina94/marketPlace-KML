@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Olé</name>
+    <Style id="icon-1685-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Hipermercados Olé SA</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8955452,18.4880801,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Olé El Rompeprecio</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8193403,18.465651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermecados Olé</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8581585,18.508013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermercados Olé Autopista Duarte</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.0118244,18.5336331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermercados Ole</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.860299,18.5421419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ole Manoguayabo</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.0051565,18.480133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermercados Ole</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.0051879,18.4802686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermercados Olé</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9190212,18.4993216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hipermercados Olé</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8767313,18.4863108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Olé</name>
+      <styleUrl>#icon-1685-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9034803,18.5419544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

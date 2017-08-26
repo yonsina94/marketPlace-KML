@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Aprezio</name>
+    <Style id="icon-1685-0F9D58-labelson-nodesc">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1685-AFB42B-labelson-nodesc">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Aprezio Las Palmas de Herrera</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9793656,18.477668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caribe Express Aprezio</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9348062,18.5387139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caribe Express-Banco Caribe Aprezio</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8613782,18.5416489,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aprezio Padre Castellanos</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8858139,18.5028804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supermercado Aprezio Los Reyes</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.7070479,19.4913383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gran Aprezio Cotui</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.1465356,19.0507576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aprezio Pantoja</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9975245,18.5299935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aprezio Andres Boca Chica</name>
+      <styleUrl>#icon-1685-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.6346467,18.4454613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PriceSmart</name>
+      <styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9495874,18.4770842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PriceSmart</name>
+      <styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.6874479,19.4395176,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PriceSmart</name>
+      <styleUrl>#icon-1685-AFB42B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9683726,18.5070709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

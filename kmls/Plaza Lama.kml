@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Plaza Lama</name>
+    <Style id="icon-1685-01579B-labelson-nodesc">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Plaza Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8372705,18.5192941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama S.A</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9362154,18.4616046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9149742,18.5001349,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama Electrodomésticos</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.5268316,19.2254678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama - Electrodomésticos</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.7009751,19.4508062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.7009875,19.4561836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9711319,18.4753007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro De Distribución Plaza Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -70.0042082,18.5085305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Super Lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.8262393,18.4886906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaza lama</name>
+      <styleUrl>#icon-1685-01579B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -69.9967126,18.4993383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
